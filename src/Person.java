@@ -6,5 +6,5 @@ public class Person {
 	String b = "salam ";
 	String d = "Hi";
 	String e = "Hello";
-	int f = 10;
+	int f = 25;
 }
